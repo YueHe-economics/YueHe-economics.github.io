@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - cv.pdf
+    - papers/**
+    - files/**
+    - robots.txt
+
+website:
+  title: "Yue He"
+  site-url: "https://yuehe-economics.github.io"
+  description: "Yue He is a PhD student in Economics at the University of Manchester. Her research is in applied microeconomics, with a focus on environmental and health topics."
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: "Yue He"
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - text: "Email"
+        href: "mailto:yue.he@manchester.ac.uk"
+      - text: "LinkedIn"
+        href: "linkedin.com/in/yue-he-manchester"
+      - text: "University webpage"
+        href: "https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad"
+
+  page-footer: "© 2026 Yue He"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
