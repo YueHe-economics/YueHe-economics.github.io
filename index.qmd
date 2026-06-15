@@ -1,0 +1,25 @@
+---
+title: "Yue He"
+description: "Welcome! I am a PhD student in economics at the University of Manchester. My research is in applied microeconomics, with a focus on environmental and health topics."
+---
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yue He",
+  "url": "https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad",
+  "jobTitle": "PhD Student in Economics",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Manchester"
+  },
+  "knowsAbout": [
+    "Economics",
+    "Applied microeconomics",
+    "Environmental economics",
+    "Health economics"
+  ]
+}
+</script>
