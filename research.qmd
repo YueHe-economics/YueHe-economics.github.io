@@ -4,7 +4,7 @@ title: "Research"
 
 ## Current Projects
 
-### Quantifying the Economic Cost of Pollution: The Impact of Air Pollution on Mental Health in England {#pollution-mental-health}
+### Quantifying the Economic Cost of Pollution: The Impact of Air Pollution on Mental Health in England {#pollution-mental-health .paper-title}
 
 revise and resubmit, *Journal of Environmental Economics and Management*
 
@@ -14,7 +14,7 @@ revise and resubmit, *Journal of Environmental Economics and Management*
 
 ---
 
-### Air Pollution, Labour Supply and Mental Health over the Life Cycle {#life-cycle}
+### Air Pollution, Labour Supply and Mental Health over the Life Cycle {#life-cycle .paper-title}
 
 coming soon
 

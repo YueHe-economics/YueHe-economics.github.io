@@ -5,6 +5,7 @@
   --academic-pale: #edf3fa;
   --academic-ink: #27354a;
   --academic-rule: #d7e1ee;
+  --paper-title: #15243b;
   --bs-link-color: #24558f;
   --bs-link-hover-color: #17365d;
 }
@@ -25,15 +26,25 @@ main a:focus-visible, .navbar a:focus-visible { outline: 2px solid #5684b8; outl
 .home-photo p, .home-photo figure { margin: 0; }
 .home-photo figcaption { display: none; }
 .profile-photo { width: 100%; height: auto; display: block; border-radius: 3px; }
-.home-bio h1 { margin: 0 0 .4rem; font-size: 2.45rem; letter-spacing: -.025em; }
-.affiliation { display: block; color: #445b79; font-weight: 500; margin-bottom: 1.15rem; }
+/* Hide the generated page title on the homepage only; keep its browser title. */
+body:has(.home-wrap) #title-block-header { display: none; }
+/* Align the opening paragraph and portrait at the top of the introductory grid. */
+.home-bio > p:first-child { margin-top: 0; }
+.home-bio { padding-top: 0; }
+.home-photo { padding-top: .25rem; }
 .contact-links { border-top: 1px solid var(--academic-rule); padding-top: .85rem; margin-top: 1rem; font-size: .95rem; }
 .contact-links p, .email-address p { margin-bottom: .3rem; }
 .email-address { font-size: .92rem; overflow-wrap: anywhere; }
 .project-preview { padding: .85rem 0 1.15rem; border-bottom: 1px solid var(--academic-rule); }
 .project-preview h3 { margin: 0 0 .65rem; }
-.project-preview h3 a { text-decoration: none; }
-.project-preview h3 a:hover { text-decoration: underline; }
+.project-preview h3,
+main .project-preview h3 a,
+main .project-preview h3 a:visited,
+main .project-preview h3 a:hover,
+h3.paper-title,
+section.paper-title > h3 { color: var(--paper-title); }
+main .project-preview h3 a { text-decoration: none; }
+main .project-preview h3 a:hover { text-decoration: underline; }
 .project-preview p { margin-bottom: .5rem; }
 .home-projects-heading { margin-bottom: .3rem; }
 .project-preview + p { margin-top: 1.2rem; }
@@ -42,6 +53,6 @@ hr { border-color: var(--academic-rule); opacity: 1; }
 @media (max-width: 700px) {
   .home-intro { grid-template-columns: 1fr; gap: 1.35rem; margin-bottom: 1.9rem; }
   .home-photo { max-width: 235px; }
-  .home-bio h1 { font-size: 2rem; }
+  .home-photo { padding-top: 0; }
   .home-wrap { margin-top: .5rem; }
 }

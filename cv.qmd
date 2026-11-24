@@ -3,9 +3,3 @@ title: "Curriculum Vitae"
 ---
 
 [Download my CV (PDF)](cv.pdf)
-
-## Education
-
-- **University of Manchester** — PhD Economics, 2022–present
-- **University of Oxford** — MPhil Economics, 2019–2021
-- **University of Sheffield** — BSc Economics with Finance, 2016–2019
