@@ -1,25 +1,51 @@
 ---
 title: "Yue He"
-description: "Welcome! I am a PhD student in economics at the University of Manchester. My research is in applied microeconomics, with a focus on environmental and health topics."
+title-block-style: none
+page-layout: full
 ---
 
-```{=html}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Yue He",
-  "url": "https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad",
-  "jobTitle": "PhD Student in Economics",
-  "affiliation": {
-    "@type": "CollegeOrUniversity",
-    "name": "University of Manchester"
-  },
-  "knowsAbout": [
-    "Economics",
-    "Applied microeconomics",
-    "Environmental economics",
-    "Health economics"
-  ]
-}
-</script>
+:::::: {.home-wrap}
+::::: {.home-intro}
+::: {.home-photo}
+![Portrait photograph](profile.jpg){.profile-photo fig-alt="Professional portrait of Yue He"}
+:::
+
+:::: {.home-bio}
+# Yue He {.unnumbered}
+
+[PhD student in economics · University of Manchester]{.affiliation}
+
+Welcome! I am an applied microeconomist with research interests in environmental, health and labour economics. My research uses quasi-experimental and structural methods to study how environmental shocks affect mental health, both directly and through the labour market.
+
+I am currently a PhD student in economics at the University of Manchester, under the supervision of [Dr Ron Chan](https://sites.google.com/site/ronhschan) and [Prof Ada Wossink](https://research.manchester.ac.uk/en/persons/ada-wossink/). Prior to my PhD, I completed an MPhil in Economics at the University of Oxford and a BSc in Economics with Finance at the University of Sheffield.
+
+::: {.contact-links}
+[Email](mailto:yue.he@manchester.ac.uk) · [University profile](https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/) · [LinkedIn](https://www.linkedin.com/in/yue-he-manchester/) · [CV (PDF)](cv.pdf)
+:::
+
+::: {.email-address}
+[yue.he@manchester.ac.uk](mailto:yue.he@manchester.ac.uk)
+:::
+::::
+:::::
+
+## Current Projects {.home-projects-heading}
+
+::: {.project-preview}
+### [Quantifying the Economic Cost of Pollution: The Impact of Air Pollution on Mental Health in England](research.qmd#pollution-mental-health)
+
+revise and resubmit, *Journal of Environmental Economics and Management*
+
+[Paper (PDF)](paper1.pdf) · [Abstract](research.qmd#pollution-mental-health)
+:::
+
+::: {.project-preview}
+### [Air Pollution, Labour Supply and Mental Health over the Life Cycle](research.qmd#life-cycle)
+
+coming soon
+
+[Abstract](research.qmd#life-cycle)
+:::
+
+[View my research →](research.qmd)
+::::::

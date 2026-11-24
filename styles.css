@@ -1,0 +1,47 @@
+/* A restrained, cool-blue palette for an academic website. */
+:root {
+  --academic-navy: #17365d;
+  --academic-blue: #24558f;
+  --academic-pale: #edf3fa;
+  --academic-ink: #27354a;
+  --academic-rule: #d7e1ee;
+  --bs-link-color: #24558f;
+  --bs-link-hover-color: #17365d;
+}
+body { background: #fff; color: var(--academic-ink); line-height: 1.7; font-size: 1.02rem; }
+h1, h2, h3, h4 { color: var(--academic-navy); font-weight: 600; line-height: 1.3; }
+h2 { border-bottom: 1px solid var(--academic-rule); padding-bottom: .5rem; }
+h3 { font-size: 1.25rem; }
+main a, main a:visited { color: var(--academic-blue); text-decoration: underline; text-underline-offset: .15em; }
+main a:hover { color: var(--academic-navy); }
+main a:focus-visible, .navbar a:focus-visible { outline: 2px solid #5684b8; outline-offset: 4px; }
+.navbar { background: var(--academic-navy) !important; border-bottom: 1px solid #244a78; }
+.navbar .navbar-brand { color: #fff; font-weight: 600; letter-spacing: .015em; }
+.navbar .nav-link { color: #e3ecf8 !important; }
+.navbar .nav-link.active, .navbar .nav-link:hover { color: #fff !important; }
+.navbar .nav-link.active { text-decoration: underline; text-underline-offset: .35em; }
+.home-wrap { width: 100%; max-width: 1000px; margin: 1.2rem auto 2rem; }
+.home-intro { display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr); gap: 2.4rem; align-items: start; margin: .8rem 0 2.7rem; }
+.home-photo p, .home-photo figure { margin: 0; }
+.home-photo figcaption { display: none; }
+.profile-photo { width: 100%; height: auto; display: block; border-radius: 3px; }
+.home-bio h1 { margin: 0 0 .4rem; font-size: 2.45rem; letter-spacing: -.025em; }
+.affiliation { display: block; color: #445b79; font-weight: 500; margin-bottom: 1.15rem; }
+.contact-links { border-top: 1px solid var(--academic-rule); padding-top: .85rem; margin-top: 1rem; font-size: .95rem; }
+.contact-links p, .email-address p { margin-bottom: .3rem; }
+.email-address { font-size: .92rem; overflow-wrap: anywhere; }
+.project-preview { padding: .85rem 0 1.15rem; border-bottom: 1px solid var(--academic-rule); }
+.project-preview h3 { margin: 0 0 .65rem; }
+.project-preview h3 a { text-decoration: none; }
+.project-preview h3 a:hover { text-decoration: underline; }
+.project-preview p { margin-bottom: .5rem; }
+.home-projects-heading { margin-bottom: .3rem; }
+.project-preview + p { margin-top: 1.2rem; }
+hr { border-color: var(--academic-rule); opacity: 1; }
+.nav-footer { border-top: 1px solid var(--academic-rule); background: #f5f8fc; color: #445b79; }
+@media (max-width: 700px) {
+  .home-intro { grid-template-columns: 1fr; gap: 1.35rem; margin-bottom: 1.9rem; }
+  .home-photo { max-width: 235px; }
+  .home-bio h1 { font-size: 2rem; }
+  .home-wrap { margin-top: .5rem; }
+}
