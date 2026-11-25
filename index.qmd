@@ -2,6 +2,9 @@
 title: "Yue He"
 title-block-style: none
 page-layout: full
+include-in-header:
+  text: |
+    <meta name="google-site-verification" content="XNvWhzrM5OaecjzPARQMTEJagxhsKZOHNLeAP9aH4Hk" />
 ---
 
 :::::: {.home-wrap}
