@@ -1,5 +1,7 @@
 ---
 title: "Yue He"
+pagetitle: "Yue He, economist"
+description: "Yue He is an applied microeconomist and PhD student in economics at the University of Manchester, specialising in environmental, health and labour economics."
 title-block-style: none
 page-layout: full
 include-in-header:
