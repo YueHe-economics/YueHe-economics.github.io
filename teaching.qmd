@@ -1,5 +1,8 @@
 ---
 title: "Teaching"
+format:
+  html:
+    anchor-sections: false
 ---
 
 I aim to help students see economics as a way to understand and think critically about society. I hope to encourage students to develop intellectually and build confidence in their abilities and ambitions. I am also committed to equal opportunities and widening participation, from my early work as a volunteer maths tutor to Oxford’s UNIQ programme and the Manchester Access Programme.

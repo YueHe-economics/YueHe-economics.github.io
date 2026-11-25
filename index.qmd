@@ -16,7 +16,7 @@ Welcome! I am an applied microeconomist with research interests in environmental
 I am currently a PhD student in economics at the University of Manchester, under the supervision of [Dr Ron Chan](https://sites.google.com/site/ronhschan) and [Prof Ada Wossink](https://research.manchester.ac.uk/en/persons/ada-wossink/). Prior to my PhD, I completed an MPhil in economics at the University of Oxford and a BSc in economics with finance at the University of Sheffield.
 
 ::: {.contact-links}
-[Email](mailto:yue.he@manchester.ac.uk) · [University profile](https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/) · [LinkedIn](https://www.linkedin.com/in/yue-he-manchester/) · [CV (PDF)](CV_Yue_He.pdf)
+[University profile](https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/) · [LinkedIn](https://www.linkedin.com/in/yue-he-manchester/) · [CV (PDF)](CV_Yue_He.pdf)
 :::
 
 ::: {.email-address}
