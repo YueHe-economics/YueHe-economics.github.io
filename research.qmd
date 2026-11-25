@@ -16,6 +16,6 @@ revise and resubmit, *Journal of Environmental Economics and Management*
 
 ### Air Pollution, Labour Supply and Mental Health over the Life Cycle {#life-cycle .paper-title}
 
-coming soon
+work in progress
 
 **Abstract:** Mental health is influenced by both environmental conditions and labour market experiences, yet little is known about how these effects interact over the life cycle. I study this interaction by combining data from the UK Household Longitudinal Study with high-resolution measures of fine particulate matter (PM2.5) and weather conditions. I develop and estimate a dynamic model in which latent mental health, inferred from multiple survey measures, evolves jointly with labour market status. Identification exploits short-run variation in pollution exposure driven by wind direction and long-run variation from a shift-share design combining local emission source composition with national sector-specific changes in emissions. The model separates transitory from persistent effects of pollution, distinguishes direct effects from those operating through the labour market, and allows these effects to vary with age. I use the model to quantify the long-run mental health consequences of pollution exposure and to examine the potential complementarity between labour market interventions and pollution reduction in improving mental health.
