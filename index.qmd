@@ -7,6 +7,38 @@ page-layout: full
 include-in-header:
   text: |
     <meta name="google-site-verification" content="XNvWhzrM5OaecjzPARQMTEJagxhsKZOHNLeAP9aH4Hk" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "https://yuehe-economics.github.io/#person",
+        "name": "Yue He",
+        "url": "https://yuehe-economics.github.io/",
+        "image": "https://yuehe-economics.github.io/profile.jpg",
+        "description": "Applied microeconomist specialising in environmental, health and labour economics.",
+        "jobTitle": "PhD student in economics",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "University of Manchester",
+          "url": "https://www.manchester.ac.uk/"
+        },
+        "knowsAbout": [
+          "Applied microeconomics",
+          "Environmental economics",
+          "Health economics",
+          "Labour economics",
+          "Mental health"
+        ],
+        "sameAs": [
+          "https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/",
+          "https://www.linkedin.com/in/yue-he-manchester/",
+          "https://www.eea-esem-congresses.org/speakers/yue-he"
+        ]
+      }
+    }
+    </script>
 ---
 
 :::::: {.home-wrap}
