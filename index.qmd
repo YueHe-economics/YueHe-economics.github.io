@@ -11,12 +11,12 @@ page-layout: full
 :::
 
 :::: {.home-bio}
-Welcome! I am an applied microeconomist with research interests in environmental, health and labour economics. My research uses quasi-experimental and structural methods to study how environmental shocks affect mental health, both directly and through the labour market.
+Welcome! I am an applied microeconomist with research interests in environmental, health and labour economics. My current research uses quasi-experimental and structural methods to study how air pollution affects mental health, both directly and through the labour market.
 
 I am currently a PhD student in economics at the University of Manchester, under the supervision of [Dr Ron Chan](https://sites.google.com/site/ronhschan) and [Prof Ada Wossink](https://research.manchester.ac.uk/en/persons/ada-wossink/). Prior to my PhD, I completed an MPhil in economics at the University of Oxford and a BSc in economics with finance at the University of Sheffield.
 
 ::: {.contact-links}
-[University profile](https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/) · [LinkedIn](https://www.linkedin.com/in/yue-he-manchester/) · [CV (PDF)](CV_Yue_He.pdf)
+[CV (PDF)](CV_Yue_He.pdf) · [University profile](https://research.manchester.ac.uk/en/persons/yue.he-7-postgrad/) · [LinkedIn](https://www.linkedin.com/in/yue-he-manchester/)
 :::
 
 ::: {.email-address}
@@ -38,7 +38,7 @@ revise and resubmit, *Journal of Environmental Economics and Management*
 ::: {.project-preview}
 ### [Air Pollution, Labour Supply and Mental Health over the Life Cycle](research.qmd#life-cycle)
 
-coming soon
+work in progress
 
 [Abstract](research.qmd#life-cycle)
 :::
