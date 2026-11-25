@@ -31,7 +31,7 @@ body:has(.home-wrap) #title-block-header { display: none; }
 /* Align the opening paragraph and portrait at the top of the introductory grid. */
 .home-bio > p:first-child { margin-top: 0; }
 .home-bio { padding-top: 0; }
-.home-photo { padding-top: .25rem; }
+.home-photo { padding-top: .6rem; }
 .contact-links { border-top: 1px solid var(--academic-rule); padding-top: .85rem; margin-top: 1rem; font-size: .95rem; }
 .contact-links p, .email-address p { margin-bottom: .3rem; }
 .email-address { font-size: .92rem; overflow-wrap: anywhere; }
