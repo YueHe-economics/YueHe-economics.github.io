@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-[Download my CV (PDF)](cv.pdf)
+[Download my CV (PDF)](CV_Yue_He.pdf)
